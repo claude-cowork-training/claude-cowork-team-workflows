@@ -56,4 +56,6 @@ New workflows welcome. Use [`templates/workflow-template.md`](templates/workflow
 
 [CC BY 4.0](LICENSE) — you can use these at work, share them, and adapt them; just credit **claudecoworktraining.com**.
 
+Created and maintained by [Peter Velinov](https://claudecoworktraining.com/about/), Claude Certified Architect – Foundations and founder of [Metamorfeus](https://metamorfeus.com). Metamorfeus, the example company in these materials, is a fictionalized version of his real consultancy — all course data is synthetic.
+
 *Independent training resource. Not affiliated with or endorsed by Anthropic. Claude and Claude Cowork are trademarks of Anthropic, PBC. All company names, people, and data in the examples are fictional. Time-saved figures are estimates, not measured client results.*
