@@ -59,3 +59,14 @@ New workflows welcome. Use [`templates/workflow-template.md`](templates/workflow
 Created and maintained by [Peter Velinov](https://claudecoworktraining.com/about/), Claude Certified Architect – Foundations and founder of [Metamorfeus](https://metamorfeus.com). Metamorfeus, the example company in these materials, is a fictionalized version of his real consultancy — all course data is synthetic.
 
 *Independent training resource. Not affiliated with or endorsed by Anthropic. Claude and Claude Cowork are trademarks of Anthropic, PBC. All company names, people, and data in the examples are fictional. Time-saved figures are estimates, not measured client results.*
+
+## About the author
+
+Claude Cowork Team Workflows is made by Peter Velinov / Metamorfeus.
+
+- [Metamorfeus](https://metamorfeus.com/) — Custom AI automation services for business processes.
+- [Metamorfeus products](https://metamorfeus.com/shop/) — Paid offerings including AI audits, workforce automation and employee AI training.
+- [Claude Cowork Training](https://claudecoworktraining.com/) — Independent, free self-paced training for everyday work, with paid team workshops; using Cowork requires a paid Claude plan.
+- [Management Assistant](https://assistant.metamorfeus.com/) — Turns meeting audio or transcripts into draft minutes for review and keeps tasks, owners and due dates together.
+
+Some linked products and services are paid. Claude Cowork Team Workflows stays free and works without any of them. Independent; not affiliated with or endorsed by Anthropic.
